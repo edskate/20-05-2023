@@ -1,6 +1,6 @@
 body {
-  width: 300px;
-  height: 150px;
+  width: 350px;
+  height: 250px;
 }
 .box1 {
   border: 3px solid #ff0000;
@@ -23,4 +23,17 @@ h2 {
   margin: 5%;
   text-align: center;
   box-shadow: 10px 10px 10px;
+}
+div {
+  width: 300px;
+  height: 150px;
+  margin: 15%;
+  box-shadow: 12px 13px 14px #000000;
+  border: 3px solid;
+  border-radius: 10px 10px 10px;
+  background-color: crimson;
+  text-align: center;
+  padding: 50px;
+  font-size: 40px;
+  text-shadow: 10px 20px 20px;
 }
