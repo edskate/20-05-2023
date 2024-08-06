@@ -1,6 +1,7 @@
 body {
   width: 350px;
   height: 250px;
+  margin: 25px;
 }
 .box1 {
   border: 3px solid #ff0000;
